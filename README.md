@@ -1,0 +1,2 @@
+# Non-Parametric-Stochastic-Quantile-Mapping-NPQM-adaptation
+This repository contains python notebooks to pre-process satellite altimetry river water surface elevation data, build NPQM rating curves using a reference river discharge product, and post-produce discharge time series from the calibrated rating curves. The NPQM code is heavily adapted from: Elmi et al, 2023, https://doi.org/10.18419/DARUS-3558.
